@@ -26,7 +26,7 @@
 <h2 id="overview"> :cloud: Przegląd</h2>
 
 <p align="justify"> 
-  Gra jest na dosyć wysokim poziomie, zastosowano w nim m. in. interfejsy, kolekcjie, komstruktory, dziedziczenie i wiele więcej, projekt składa się 5 klas.
+  Gra jest na dosyć wysokim poziomie, zastosowano w nim m. in. interfejsy, kolekcjie, konstruktory, dziedziczenie i wiele więcej, projekt składa się 5 klas.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
