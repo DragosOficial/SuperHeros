@@ -1,4 +1,4 @@
-<h1 align="center"> Gra "Super Heros" </h1>
+<h1 align="center"> Gra "Super Heroes" </h1>
 <h5 align="center"> Projekt pomocniczy - projekt został głównie stworzony for fun</h5>
 
 <h2 id="table-of-contents"> :book: Spis treści</h2>
