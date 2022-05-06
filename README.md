@@ -9,7 +9,7 @@
     <li><a href="#about-the-project"> ➤ O Projekcie</a></li>
     <li><a href="#overview"> ➤ Przegląd</a></li>
     <li><a href="#project-files-description"> ➤ Opis Plików Projektu</a></li>
-    <li><a href="#credits"> ➤ Licencja</a></li>
+    <li><a href="#licence"> ➤ Licencja</a></li>
   </ol>
 </details>
 
@@ -44,7 +44,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="credits"> :scroll: Licencja</h2>
+<h2 id="licence"> :scroll: Licencja</h2>
 
 Projekt jest powiązany licencją Apache License 2.0
 
